@@ -1,5 +1,7 @@
 # Blinkit Data Analysis
 
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWY1NDdlYjktNjcxYy00ZTY3LTlkYjgtYmZjOGQ3MWNkMzAwIiwidCI6ImU3NmE3NTM0LThhNzQtNGE2Mi1hZGZkLThmODg1NThlZjM1MSJ9)
+
 1. **Project Background**
     
     I worked on a sales analysis project focused on Blinkit’s performance in Tier 3 city outlets. The goal was to understand what products were selling the most, how different outlet types were performing, and what customer preferences looked like in smaller cities.
