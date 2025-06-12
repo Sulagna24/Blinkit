@@ -1,4 +1,4 @@
-# Blinkit
+# Blinkit Data Analysis
 
 1. **Project Background**
     
